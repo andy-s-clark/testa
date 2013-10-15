@@ -1,3 +1,4 @@
 [submodule "testb"]
 	path = testb
 	url = https://github.com/andy-s-clark/testb.git
+  branch = master
